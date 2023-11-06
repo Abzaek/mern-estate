@@ -1,0 +1,269 @@
+[33mcommit 0d068ff0cd98d1be46c237fbe38022a7aa69cb11[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 22 12:41:42 2023 +0800
+
+    fix app.jsx file for signup
+
+[33mcommit fd2b64b647e5ca2f6232a23c8bd5daf95143986f[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 22 12:34:22 2023 +0800
+
+    add pre installation
+
+[33mcommit 0c9a4bd85b5b8ac77ab4512d33cad09844ec7e35[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 22 10:46:24 2023 +0800
+
+    complete about page
+
+[33mcommit 42870595a5deb248184ffe4b9e5225d49412fac9[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 22 10:36:21 2023 +0800
+
+    complete home page
+
+[33mcommit 24c28f76846d8bf3e3ee4ed45ded23a6e85c7048[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 21 11:10:11 2023 +0800
+
+    add show more listings funtionality
+
+[33mcommit f907b796bf47613bf49ef9c36abc0ac6f400ec9f[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 21 10:38:37 2023 +0800
+
+    Create the listing item component and show listings
+
+[33mcommit e0afc47c184c038b9572c19a32c2694001e70d9e[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 21 09:33:28 2023 +0800
+
+    add onChange and onSubmit functionality to the search page
+
+[33mcommit adfa3f6bcc1e60df8f73fa6aeadb880ce29c1b18[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Tue Sep 19 11:48:32 2023 +0800
+
+    Create search page UI
+
+[33mcommit 151dae052b469e8d854fc9e6bc286d1a7b08fae5[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Tue Sep 19 11:14:04 2023 +0800
+
+    complete header search form functionality
+
+[33mcommit 3d10107a09c9ca2f2491d3a566a440c24284921c[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Tue Sep 19 09:40:07 2023 +0800
+
+    create search api route
+
+[33mcommit e2096f65ff3a86ff18db5a69c4598d22c911b6d5[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Tue Sep 19 08:42:40 2023 +0800
+
+    Add contact landlord functionality to the listing page
+
+[33mcommit 07ca17bc1e772de5f0b2d39bbf3fce6e01c4ea58[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Mon Sep 18 10:19:42 2023 +0800
+
+    complete listing page
+
+[33mcommit 88fb9ed27e7f896c80392c902ad0458264f7138b[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sun Sep 17 11:37:26 2023 +0800
+
+    add image slider to the listing page
+
+[33mcommit eb64f551030b368b08915ab1b8e707d94115f2c8[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sun Sep 17 09:47:29 2023 +0800
+
+    complete update listing functionality
+
+[33mcommit 293200dfac9d19303fda005b22e1e303fafef918[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sun Sep 17 08:59:14 2023 +0800
+
+    create update listing api route
+
+[33mcommit 30c7a000dfeb56fde7020dde3e3e9af693becb8c[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sat Sep 16 12:09:32 2023 +0800
+
+    complete delete user listing functionality
+
+[33mcommit 941de5d2bbfec863612a83f3ce160e7e2f954635[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sat Sep 16 11:07:37 2023 +0800
+
+    Complete show user listings functionality
+
+[33mcommit cb49f5070acd32c42b8ef16782d46b7f865ddc66[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sat Sep 16 10:39:03 2023 +0800
+
+    create get user listings api route
+
+[33mcommit c116a87105a4718a3ac7caec1c2c2526bc1f3271[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sat Sep 16 08:29:32 2023 +0800
+
+    complete create listing page functionality
+
+[33mcommit 7716926b9d0054191aa78e3e86431723cc27b9db[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 15 12:12:56 2023 +0800
+
+    complete upload listing images functionality
+
+[33mcommit c3c07b0d46bbbfe9b87b84c5f696acb194797664[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 15 10:28:31 2023 +0800
+
+    complete create listing page UI
+
+[33mcommit 24eaf7d689cd02d52bb257ce3748145375dcfefb[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 15 08:33:46 2023 +0800
+
+    add create listing api route
+
+[33mcommit ec39231e0b81645bc15b14fb76a1f5458b48e221[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 14 12:43:52 2023 +0800
+
+    add sign out functionality
+
+[33mcommit 655af9a1746114040a59ee06cb4aa71d885df6d0[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 14 12:33:56 2023 +0800
+
+    add delete user functionality
+
+[33mcommit cf3ba3a3961977841c1df5f9a707ad3bd05c7551[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 14 10:58:00 2023 +0800
+
+    complete update user functionality
+
+[33mcommit 67fcc3d9ed076c8882085216c881e2a5421bc2f5[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 14 10:21:57 2023 +0800
+
+    create update user api route
+
+[33mcommit c9a60d8a44266514e79db69199bda9ad532aec01[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Wed Sep 13 10:23:20 2023 +0800
+
+    complete image upload functionality
+
+[33mcommit 7df6d9dcd87b7f1185a9228e49c9149084bbffcf[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Wed Sep 13 08:28:13 2023 +0800
+
+    complete profile page UI
+
+[33mcommit 7dc67da260c541b4e03904b53bce2f1609339d6d[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Tue Sep 12 09:05:35 2023 +0800
+
+    update the header and make the profile page private
+
+[33mcommit 2208e4959d3f0935eefb04482efc522cef7877ce[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Tue Sep 12 08:08:47 2023 +0800
+
+    create and add OAuth component
+
+[33mcommit 15f951970d9657c151c9a4efb1b0e5798aec6997[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sat Sep 9 08:33:27 2023 +0800
+
+    add redux persist
+
+[33mcommit ef211827a9cb8ccff679ca90cb778e67988ce4d8[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sat Sep 9 07:51:59 2023 +0800
+
+    add redux toolkit
+
+[33mcommit 12bdc7bf55428c3deb8cb103334948af9a773b32[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sat Sep 9 07:29:31 2023 +0800
+
+    complete sign in page functionality
+
+[33mcommit 31f32bebdeeb2515e42addf6ec3d38c39fd3027a[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 8 08:44:27 2023 +0800
+
+    create sign in api route
+
+[33mcommit 6f9fc89e292543d9ec4a90379db0f00bfd0c5c20[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 7 10:23:00 2023 +0800
+
+    complete sign up page funcionality
+
+[33mcommit 92623349d8567bcda574f2a3d0c0070490a24b7e[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 7 09:34:53 2023 +0800
+
+    complete sign up page ui
+
+[33mcommit 18178cedf50c2b039531ad83ee32c044dc46fbe4[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Sep 7 09:04:53 2023 +0800
+
+    create a middleware and a function to handle possible errors
+
+[33mcommit 8c8fbe237c7e9ef6f190b3ea9e9103c89f8d1315[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Wed Sep 6 09:41:02 2023 +0800
+
+    create sign up api route
+
+[33mcommit e1222aff736de44b09d0ac0ae3304d4f08b49ac1[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Wed Sep 6 08:52:49 2023 +0800
+
+    create a test api route
+
+[33mcommit 29a6b998442e90ca16a143f1808709ee19b043a7[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Wed Sep 6 08:35:27 2023 +0800
+
+    create user model
+
+[33mcommit 1a72acb35ee23267f8aa823897c9fb3c00db6bde[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Tue Sep 5 10:27:40 2023 +0800
+
+    connect to database
+
+[33mcommit 84d178c782e933ddbb7fcaeb25b13c918b257c68[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sun Sep 3 10:42:17 2023 +0800
+
+    create and run the server
+
+[33mcommit 98497eeec390518b723d481856646b7da3782d1e[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Sun Sep 3 09:20:23 2023 +0800
+
+    create header component
+
+[33mcommit 11fcef15332d9533bec49e22478bf0acc93af9ff[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Fri Sep 1 10:01:37 2023 +0800
+
+    create pages and routes
+
+[33mcommit 9373afe765ad98a24a8da4f7c1f6c64463f51158[m
+Author: Sahand Ghavidel <sahand.gha@gmail.com>
+Date:   Thu Aug 31 09:20:27 2023 +0800
+
+    install react js and tailwind css and create the first template
